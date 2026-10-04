@@ -14,7 +14,7 @@ export interface GiftData {
 
 const giftData: Record<string, GiftData> = {
   gift: {
-    senderName: "Mohamed",
+    senderName: "Mohanad",
     receiverName: "Nosa",
     // مسار صورة الظرف التي ستضعها لاحقاً
     envelopeImage: "/images/envelope-placeholder.png", 
